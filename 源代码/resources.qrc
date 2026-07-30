@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1680313875248.gif</file>
+        <file>1758263119038(1).gif</file>
+        <file>tubiao.png</file>
+        <file>0334aad0-61f2-4854-8d35-0cf70a8b1472.gif</file>
+        <file>biao.ico</file>
+        <file>music.wav</file>
+        <file>bofang.png</file>
+        <file>danqvxunhuan.png</file>
+        <file>shangyishou.png</file>
+        <file>suijibofang.png</file>
+        <file>xiayishou.png</file>
+        <file>xunhuanbofang.png</file>
+        <file>zanting.png</file>
+        <file>bofangqi.png</file>
+        <file>elysiam realm.wav</file>
+    </qresource>
+</RCC>
